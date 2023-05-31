@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://candidatura.42madrid.com/uploads/admissions/campus/logo_website/4/Logo_42_Version_D_01.svg" width="300" height="100">
 
 ### * FullStack Web Development as a student at the CodeOp Bootcamp. 
+<img src="https://github.com/calamitymandy/calamitymandy/assets/113436356/fa057676-9dfe-4adf-9d60-a96cac686779" height="150">
 
 <br><br><br>
 ### 📫 How to reach me: ###
