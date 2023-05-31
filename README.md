@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ### * FullStack Web Development as a student at the CodeOp Bootcamp. 
 
 <br><br><br>
-### 📫 you can contact me by: ###
+### 📫 How to reach me: ###
 -  Email: amandinedem@hotmail.fr
 -  Linkedin profile: https://www.linkedin.com/in/amandine-dem
