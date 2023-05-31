@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # 🌱 I am currently learning:
 
 ### * C language as a student at the 42 madrid school. 
+
 <img src="https://candidatura.42madrid.com/uploads/admissions/campus/logo_website/4/Logo_42_Version_D_01.svg" width="300" height="100">
 
 ### * FullStack Web Development as a student at the CodeOp Bootcamp. 
